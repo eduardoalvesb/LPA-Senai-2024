@@ -8,3 +8,5 @@
 ## Cronograma 
 - [x] Aula 04 - Introdução ao Github (07/02/2024)
  - Criação do perfil no github
+
+PALMEIRAS!
