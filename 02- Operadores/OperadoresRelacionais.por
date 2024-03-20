@@ -3,7 +3,18 @@ programa
 	
 	funcao inicio()
 	{
-		escreva("Olá Mundo")
+
+	inteiro v,a //Declaração de variáveis
+
+	v = 16
+	a = 9
+
+	escreva ("Testando os operadores relacionais com os valores: ",v, " e ",a)
+	escreva ("\n V é maior do que a? ",v>a)
+	escreva ("\n v é menor que a? ", v<a)
+     escreva ("\n v é diferente de a? ", v!=a)
+     escreva ("\n v é igual a a? ", v==a)
+	    
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -11,7 +22,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 12; 
+ * @POSICAO-CURSOR = 0; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
